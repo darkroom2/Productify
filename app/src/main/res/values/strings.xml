@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Aplikacja Klienta</string>
+    <string name="res_btn_search">Wyszukaj produkt</string>
+    <string name="res_btn_map">Wyświetl mapę sklepów</string>
+    <string name="res_btn_shop_list">Wyświetl listę sklepów</string>
+    <string name="btn_show_account">Pokaż konto</string>
+    <string name="res_login_title">Zaloguj się</string>
+    <string name="res_login_hint">Login</string>
+    <string name="res_login">Zaloguj</string>
+    <string name="res_logout">Wyloguj</string>
+    <string name="res_search_title">Wyszukiwanie produktu</string>
+    <string name="res_product_name">Nazwa produktu</string>
+    <string name="res_producer_name_hint">Producent</string>
+    <string name="res_password_hint">Hasło</string>
+    <string name="res_btn_search_short">Wyszukaj</string>
+    <string name="res_city_hint">Miasto</string>
+    <string name="res_init">Init</string>
+    <string name="res_store_name">Nazwa Sklepu</string>
+    <string name="res_producer_name">Producent:\t\t</string>
+    <string name="res_qty_count">Ilość na stanie:\t\t</string>
+    <string name="res_extra_info">Informacje dodatkowe:\t\t</string>
+    <string name="res_store_adress">Lokalizacja sklepu:\t\t</string>
+    <string name="res_map">Mapa</string>
+    <string name="res_order">Rezerwuj</string>
+    <string name="res_first_name">Imię</string>
+    <string name="res_last_name">Nazwisko</string>
+    <string name="res_order_qty">Liczba sztuk</string>
+    <string name="res_pickup_date">Data odbioru</string>
+</resources>
